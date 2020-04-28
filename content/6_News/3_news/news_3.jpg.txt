@@ -1,0 +1,23 @@
+Einstellung: image
+
+----
+
+Datum: 2020-05-26
+
+----
+
+Headline: Otto Dix – 50. Todestag
+
+----
+
+Text:
+
+Otto Dix hat ein gewaltiges Werk hinterlassen. Wie kaum ein anderer hat er ein Bild der wilden 20er Jahre geformt, das beides zeigt: Vergnügungssucht und Elend, Glanz und Untergang, Leben und Tod. Dabei ist er der Wirklichkeit so nahe gekommen wie nur möglich.
+
+Jetzt ist ein Museumsführer für Baden-Württemberg entstanden, der zu einer Reise zu den sieben teilnehmenden Museen mit Otto-Dix-Sammlungen einlädt. Zum Kunstmuseum Albstadt, Zeppelinmuseum Friedrichshafen, Museum Haus Dix in Hemmenhofen, in die Kunsthalle Mannheim, das Kunstmuseum Singen, das Kunstmuseum Stuttgart und in die Staatsgalerie Stuttgart. Eine wirkliche Entdeckung.
+
+Kleiner Tipp: Eignet sich auch hervorragend als Geschenk.
+
+----
+
+Template: news_cards

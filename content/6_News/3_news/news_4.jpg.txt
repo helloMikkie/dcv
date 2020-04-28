@@ -1,0 +1,33 @@
+Einstellung: image
+
+----
+
+Datum: 2020-08-19
+
+----
+
+Headline: „Hundeangst schlägt Kunstverstand“
+
+----
+
+Text:
+
+„Hitler“ nannte der Aktions- und Performance-Künstler Wolfgang Flatz seine deutsche Dogge, die er in dem Buch **Hitler – ein Hundeleben porträtierte**. Erstmals 1996 veröffentlicht, war es lange vergriffen. Jetzt wird es in der Edition Cantz in einer erweiterten Fassung wieder neu aufgelegt.
+
+Neu ist beispielsweise die briefliche Auseinandersetzung der Stuttgarter Designer-Legende Kurt Weidemann mit der Zeit-Autorin Petra Kipphoff, die in dem Fazit mündete, das wir hier in der Überschrift zitieren. Sicher – das Buch polarisiert, doch genauso sicher ist, dass man es kennen sollte.
+
+Ausstellung im (link: null text: Stadthaus Ulm) vom 31.8. bis 24.11.2019, Eröffnung am 30.8.2019.
+
+Künstlergespräch mit FLATZ 20.11.19, 19:30 Uhr im Stadthaus Ulm.
+
+----
+
+Featured: true
+
+----
+
+Subpage: true
+
+----
+
+Template: news_cards

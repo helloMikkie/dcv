@@ -1,0 +1,35 @@
+title: Page
+status:
+  draft: Draft
+  unlisted: false
+  listed: Published
+
+sections:
+  parts:
+    headline: Components
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - c-heading
+      - c-cards
+      - c-cards-related
+      - c-caroussel
+      - c-caroussel_news
+      - c-news-ticker
+      - c-description_book
+      - c-video
+      - c-caroussel_edition
+      - c-description_edition
+      - c-description_news
+      - c-text
+      - c-text-sidebar
+      - c-introtext
+      - c-service
+      - c-hero
+      - c-news
+      - c-devider
+      - c-edition-list
+
+      

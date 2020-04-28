@@ -1,0 +1,171 @@
+main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: transform 0.2s ease-out;
+  z-index: 1;
+  background-color: $white;
+}
+
+.wrapper {
+  background-color: $white;
+  position: relative; 
+
+
+}
+.wrapper-margin {
+  margin-top: 12rem;
+  background-color: $white;
+}
+
+.bg-black{
+  background-color: $black;
+  color: $white;  
+}
+
+// Stacks 
+
+.stack > *{
+  margin-top: 0; 
+}
+.stack > * + * {
+  margin-top: 1rem; 
+}
+
+// sidebar Layout: c-description-book, c-description-edition
+
+.sidebar-heading{
+    max-width: calc(100% - 2rem); 
+    margin-left: auto;  
+    margin-right: auto;
+    margin-top: 4rem;   
+}
+
+.heading-book{
+  border-top: 8px solid $black; 
+}
+.heading-edition{
+  border-top: 8px solid $white; 
+}
+
+.sidebar{
+    overflow: hidden; 
+    width: calc(100% - 3rem); 
+    margin-left:  auto; 
+    margin-right: auto; 
+    margin-top: 2rem; 
+    margin-bottom: 4rem; 
+}
+
+
+.sidebar > * {
+    display: flex; 
+    flex-wrap: wrap; 
+    margin: calc(3rem / 2 * -1);
+}
+.sidebar > * > * {
+    flex-grow: 1;
+    flex-basis: 30rem;
+    margin: calc(3rem / 2); 
+}
+
+.sidebar > * > :last-child {
+    flex-basis: 0;
+    flex-grow: 999;
+    min-width: 40%;
+    margin-top: none; 
+}
+
+.sidebar-info-table{
+  width: 100%; 
+  padding-bottom: 2rem; 
+}
+.table-book{
+  border-bottom: 8px solid $black; 
+}
+.table-edition{
+  border-bottom: 8px solid $white; 
+}
+
+.sidebar-info-table th{
+  text-align: left;
+  line-height: 2; 
+}
+
+.sidebar-info-partner{
+  margin-bottom: 3rem; 
+}
+
+@media (min-width: 60rem){
+  .sidebar-heading{
+    max-width: 60%; 
+  }
+  .sidebar{
+    width: 80%;
+    max-width: 72rem; 
+  }
+}
+
+// sidebar Layout for Contact Page: c-service
+
+
+.sidebar-contact{
+  overflow: hidden; 
+  width: calc(100% - 3rem); 
+  margin-left:  auto; 
+  margin-right: auto; 
+  margin-top: 2rem; 
+  margin-bottom: 4rem; 
+}
+
+
+
+.sidebar-contact > * {
+  display: flex; 
+  flex-wrap: wrap; 
+  align-items: flex-start;
+  margin: calc(3rem / 2 * -1);
+}
+.sidebar-contact > * > * {
+  flex-grow: 1;
+  flex-basis: 20rem;
+  margin: calc(3rem / 2); 
+}
+.sidebar-contact > * > :last-child {
+  flex-basis: 0;
+  flex-grow: 999;
+  min-width: 50%;
+}
+
+.sidebar-contact-category{
+  font-family: "bold";
+  font-size: $fs-regular; 
+  text-transform: uppercase;
+  border-bottom: 8px solid $black; 
+  line-height: 2; 
+  
+}
+.sidebar-contact-body{
+  display: grid; 
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  grid-gap: 2rem 4rem;  
+}
+.sidebar-contact-body-item h3{
+  font-size: $fs-medium; 
+  font-family: "bold";
+  padding-bottom: .5rem; 
+  border-bottom: 1px solid $black;
+
+}
+.sidebar-contact-body-item a{
+  color: $black; 
+}
+
+@media (min-width: 60rem){
+  .sidebar-contact{
+    width: 80%;
+    max-width: 72rem; 
+  }
+}

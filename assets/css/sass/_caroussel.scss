@@ -1,0 +1,143 @@
+// Caroussel: Standard
+.caroussel {
+  height: 100vh;
+  position: relative;
+  // margin-bottom: 6rem;  
+}
+
+
+.slider-cell {
+  width: 100%;
+  position: relative;
+}
+.slider-cell img {
+  height: 100vh;
+  object-fit: cover;
+}
+.flickity-prev-next-button  {
+  display: none;
+  width:10rem; 
+  height: 20rem; 
+}
+.flickity-button svg{
+  width: 300%; 
+  height: 100%;
+}
+
+.flickity-page-dots {
+  display: none;
+}
+
+.arrow {
+  fill: $black;
+
+}
+.slider-heading {
+  position: absolute;
+  left: 5%;
+  bottom: 5%;
+}
+
+@media (min-width: 60rem) {
+  .flickity-page-dots {
+    display: block;
+    bottom: 2rem;
+  }
+  .flickity-button {
+    display: block;
+    background: none;
+
+  }
+  .flickity-button:hover{
+    background: none;
+  }
+
+}
+
+//  + + + + + + + + Caroussel Editionen
+
+.slider-cell-edition {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: $black; 
+}
+
+@media(min-width: 60rem){
+  .slider-cell-edition{
+    align-items: flex-end; 
+    padding-bottom: 6rem; 
+  }
+}
+.slider-image {
+  max-height: 70vh;
+  max-width: calc(100% - 2rem); 
+  object-fit: contain;
+}
+
+// + + + + + + + + Caroussel News
+
+.caroussel-news{
+  background: $black;
+  color: $white;  
+}
+
+.caroussel-edition .flickity-page-dots .dot,
+.caroussel-news .flickity-page-dots .dot{
+  border: 1px solid $white; 
+  opacity: 1; 
+  background: none; 
+}
+.caroussel-edition .flickity-page-dots .dot.is-selected,
+.caroussel-news .flickity-page-dots .dot.is-selected{
+  border: 1px solid $white; 
+  opacity: 1; 
+  background: $white; 
+}
+
+.caroussel-edition .arrow{
+  fill: $white; 
+}
+
+.slider-cell-news{
+  padding: 5rem; 
+  width: 100%; 
+  max-width: 60rem; 
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0.3; 
+}
+.slider-cell-news.is-selected{
+  opacity: 1; 
+}
+
+@media(min-width: 60rem){
+  .slider-cell-news{
+    // width: 60%;
+  }
+}
+
+
+// caroussel-sidebar
+.caroussel-sidebar{
+  height: 100%; 
+}
+
+.slider-cell-sidebar {
+  width: 100%;
+  position: relative;
+}
+.slider-cell-sidebar img {
+  height: 100%;
+  object-fit: contain;
+}
+.caroussel-sidebar .flickity-prev-next-button  {
+  display: none;
+}
+
+
+.caroussel-sidebar .flickity-page-dots {
+  bottom: 0.5rem; 
+}

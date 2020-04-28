@@ -1,0 +1,17 @@
+title: Card
+
+fields:
+  overwrite:
+    type: select
+    options:
+      - standard
+      - featured
+      - new
+      - preview
+  author:
+    type: text
+  book_title:
+    type: text
+  book_description:
+    type: textarea
+  

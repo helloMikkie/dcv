@@ -1,0 +1,17 @@
+Overwrite: preview
+
+----
+
+Author: Ralph Cohen
+
+----
+
+Book-title: Synthese
+
+----
+
+Book-description: 
+
+----
+
+Template: cards

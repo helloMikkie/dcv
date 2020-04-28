@@ -1,0 +1,12 @@
+title: Text Sidebar
+
+fields:
+  text:
+    label: Detail Beschreibung
+    width: 1/2
+    type: textarea
+  images:
+      type: files
+      layout: cards
+      size: tiny
+      info: "{{ file.size }}"

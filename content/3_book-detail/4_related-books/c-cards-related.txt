@@ -1,0 +1,18 @@
+Title: Related Books
+
+----
+
+Overwrite: book
+
+----
+
+Heading: Ähnliche Bücher
+
+----
+
+Images:
+
+- keining.jpg
+- jospin.jpg
+- pokorny.jpg
+- salonen.jpg

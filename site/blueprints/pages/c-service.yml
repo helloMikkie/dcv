@@ -1,0 +1,22 @@
+title: Kontakt
+icon: text
+status:
+  draft: Draft
+  unlisted: false
+  listed: Published
+
+fields:
+  category:
+    label: Kategorie
+    type: text
+  item:
+    label: Liste
+    type: structure
+    fields:
+      name: 
+        label: Name
+        type: text
+      text:
+        label: Description
+        type: textarea
+      

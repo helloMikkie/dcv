@@ -1,0 +1,19 @@
+Title: Vertrieb Marketing
+
+----
+
+Category: Vertrieb und Marketing
+
+----
+
+Item:
+
+- 
+  name: Evelin Georgi
+  text: |
+    Tel. +49 (0)711 / 44 05-251
+    Mobil +49 (0)160 / 805 66 87
+
+----
+
+Position: Presse und Kommunikation

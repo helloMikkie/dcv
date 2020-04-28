@@ -1,0 +1,29 @@
+Title: Senior-Editor
+
+----
+
+Category: Senior-Editor
+
+----
+
+Item:
+
+- 
+  name: Norbert Brey
+  text: |
+    Tel. +49 (0)711 / 44 05-119
+    (email: n.brey@cantz.de text: n.brey@cantz.de)
+- 
+  name: Bernd Barde
+  text: |
+    Mobil +49 (0)172 / 712 44 00
+    (email: b.barde@cantz.de text: b.barde@cantz.de)
+- 
+  name: Dr. Doris Hansmann
+  text: |
+    Tel. +49 (0)711 / 4405-206
+    (email: d.hansmann@edition-cantz.de text: d.hansmann@edition-cantz.de)
+
+----
+
+Position: Senior-Editor

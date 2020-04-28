@@ -1,0 +1,22 @@
+Title: Geschäftsführung
+
+----
+
+Category: Geschäftsführung
+
+----
+
+Item:
+
+- 
+  name: Uta Grosenick
+  text: '(email: u.grosenick@edition-cantz.de text: u.grosenick@edition-cantz.de)'
+- 
+  name: Heinz Wurzel
+  text: |
+    Tel. +49 (0)711 / 4405-100
+    (email: h.wurzel@w-mg.com text: h.wurzel@w-mg.com)
+
+----
+
+Position: Geschäftsführung

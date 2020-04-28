@@ -1,0 +1,20 @@
+Title: Presse-Kommunikation
+
+----
+
+Category: Presse und Kommunikation
+
+----
+
+Item:
+
+- 
+  name: Jonathan Stockhorst
+  text: |
+    Tel. +49 (0)30 / 263004-94
+    Mobil +49 (0)157 / 747 845 20
+    (email: j.stockhorst@edition-cantz.de text: j.stockhorst@edition-cantz.de)
+
+----
+
+Position: Presse und Kommunikation

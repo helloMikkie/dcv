@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Ed Sommer
+
+----
+
+Book-title: Planetare Allianz
+
+----
+
+Template: cards

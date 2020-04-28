@@ -1,0 +1,34 @@
+Title: Book Cards
+
+----
+
+Images:
+
+- gamperl.jpg
+- digitaleskulptur.jpg
+- cohen.jpg
+- edsommer.jpg
+- finland.jpg
+- bux.jpg
+- flatland.jpg
+- hermann.jpg
+- keining.jpg
+- ganslmeier.jpg
+- jospin.jpg
+- heieck.jpg
+- kunstlerbundbw.jpg
+- luxus.jpg
+- neumaier.jpg
+- pokorny.jpg
+- lehnerer_grott.jpg
+- salonen.jpg
+- schmidt.jpg
+- tanaka.jpg
+- weidemann.jpg
+- tanzendeblick.jpg
+- vore.jpg
+- wurttbvolksbuhne.jpg
+
+----
+
+Layout: 

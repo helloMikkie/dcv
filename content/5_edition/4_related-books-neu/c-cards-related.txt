@@ -1,0 +1,13 @@
+Title: Related-books
+
+----
+
+Overwrite: edition
+
+----
+
+Heading: Bücher zu John Bock
+
+----
+
+Images: - ganslmeier.jpg

@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Karlheinz Bux
+
+----
+
+Book-title: Über Linie…
+
+----
+
+Template: cards

@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Peter Hermann
+
+----
+
+Book-title: Skulpturen
+
+----
+
+Template: cards

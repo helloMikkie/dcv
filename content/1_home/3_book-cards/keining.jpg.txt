@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: 
+
+----
+
+Book-title: Scoop
+
+----
+
+Template: cards

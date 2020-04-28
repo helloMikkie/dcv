@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Roman Novitzkys Stuttgarter Ballett
+
+----
+
+Book-title: Der Tanzende Blick
+
+----
+
+Template: cards

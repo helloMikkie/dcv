@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Voré
+
+----
+
+Book-title: Stückwerk Mensch
+
+----
+
+Template: cards

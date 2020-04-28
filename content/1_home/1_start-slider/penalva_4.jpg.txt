@@ -1,0 +1,17 @@
+Overwrite: 
+
+----
+
+Author: Isabelle Graw
+
+----
+
+Book-title: In einer anderen Welt. Notizen 2014–2017
+
+----
+
+Book-description: 
+
+----
+
+Template: cards

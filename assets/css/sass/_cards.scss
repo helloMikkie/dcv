@@ -1,0 +1,218 @@
+// * * * * * * * * *  Books  * * * * * * * * *
+.grid-books {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    grid-gap: 3rem;
+    background: $black; 
+}
+
+
+
+//  * * * * book: Standard  * * * *
+
+.book{
+    position: relative; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    color: $white; 
+    padding: 3rem 1rem; 
+}
+.book-cover{
+    width: 18rem; 
+    height: 18rem; 
+    object-fit: contain;
+    transition: transform 0.3s ease-in;
+
+}
+.book-cover:hover{
+    transform: scale(1.02);
+}
+
+.book-heading {
+    width: 100%;
+    margin-top: 1rem;  
+}
+
+
+
+// * * * * book Featured * * * *
+
+.featured-book{
+    background-color: $white; 
+    color: inherit;
+    position: relative; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    
+}
+
+.featured-book-inner{
+    width: calc(100% - 1rem); 
+    margin-bottom: 4rem;
+
+}
+.featured-book-heading{
+    width: 100%; 
+    border-top: 8px solid $black; 
+    padding-top: 0.5em; 
+    margin-top: 2rem; 
+    margin-bottom: 2rem; 
+}
+
+.featured-book-body{
+    display: flex;
+    max-width: 60%; 
+    margin: 0 auto; 
+}
+
+.featured-book-body p{
+    display: none; 
+    width: 100%; 
+}
+
+.book-cover-featured{
+    text-align: center; 
+    // width: 80%; 
+}
+@media (min-width: 60rem){
+    .featured-book{
+        grid-column-start: 1;
+        grid-column-end: -1; 
+    }
+  
+    .featured-book-heading{
+        max-width: 60%; 
+        margin-left: 20%; 
+        margin-right: 20%;
+    }
+    .featured-book-body{
+        margin-top: 6rem; 
+        max-width: 80%; 
+    }
+    .featured-book-body a{
+        // width: 60%;
+        flex-basis: 30%;
+    
+    }
+    .featured-book-body p{
+        display: block;
+        margin-top: 0;
+        flex-basis: 60%;
+        margin-left: auto; 
+    }
+}
+
+
+// * * * * Icon Book: new * * * *
+
+.new-book::after{
+    content: "neu";
+    position: absolute; 
+    background-color: $white; 
+    color: $black;
+    font-family: "bold"; 
+    text-transform: uppercase;
+    top: 10%; 
+    right: 50%;
+    width: 48px;
+    height: 48px; 
+    border-radius: 100px; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-33deg);
+}
+
+// * * * *  Icon Book: preview * * * *
+
+.preview-book::after{
+    content: "upcoming";
+    position: absolute; 
+    background-color: blue; 
+    top: 0; 
+    right:0;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+// // * * * * * * * * *  News: Masonry Grid  * * * * * * * * * 
+
+.grid-news{
+// Container for  Isotype Grid: grid_news.js
+    width: 80%; 
+    margin-top: 3rem; 
+    margin-left:auto;
+    margin-right: auto; 
+
+}
+
+.gutter-sizer{ width: 2%; }
+
+.news{
+    margin-top: 1em;
+}
+.news-body > * {
+    margin-top: 0.5em; 
+}
+
+
+@media screen and (min-width: 1600px){
+    .gutter-sizer{ width: 5%; }
+    .grid-sizer,.news { width: 16%; }
+    }
+
+/* Large */
+    @media screen and (min-width: 1280px) and (max-width: 1600px){
+        .gutter-sizer{ width: 4%; }
+        .grid-sizer, .news { width: 22%; }
+        }
+        
+/* Medium */
+    @media screen and (min-width: 960px) and (max-width: 1280px){
+    .gutter-sizer{ width: 5%; }
+    .grid-sizer, .news { width: 30%; }
+    }
+    
+
+    @media screen and (min-width: 560px) and (max-width: 960px){
+    .gutter-sizer{ width: 4%; }
+    .grid-sizer,.news {  width: 48%; }
+    }
+/* small */
+    @media screen and (max-width: 560px){
+    .grid-sizer,.news { width: 100%; }
+}
+
+
+// * * * * * * * * * * * * * Related Grid
+
+
+.reel-grid {
+    padding: 0 0 2rem 0;
+    overflow-x: auto;
+    background-color: $black ;
+    color: $white;
+    -webkit-overflow-scrolling: auto;
+}
+
+.reel-grid::-webkit-scrollbar {
+    height: 1.5rem;
+
+}
+.reel-grid::-webkit-scrollbar-track {
+    background-color: $black;
+}
+
+.reel-grid::-webkit-scrollbar-thumb {
+    background-image: linear-gradient($black 0, $black 0.25rem, $white 0.25rem, $white 0.75rem, $black 0.75rem, $black 1rem);
+
+}
+
+.reel-grid__list {
+    display: flex;
+}

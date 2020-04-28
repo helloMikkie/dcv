@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Schmidt
+
+----
+
+Book-title: Über Diebe und die Liebe
+
+----
+
+Template: cards

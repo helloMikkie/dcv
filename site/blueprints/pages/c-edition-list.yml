@@ -1,0 +1,13 @@
+title: Edition List
+icon: text
+
+fields:
+  item:
+    label: Edition Liste
+    type: structure
+    fields:
+      heading: 
+        label: Artist
+        type: text
+ 
+      

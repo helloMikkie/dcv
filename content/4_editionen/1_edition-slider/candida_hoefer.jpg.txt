@@ -1,0 +1,13 @@
+Overwrite: 
+
+----
+
+Author: Candida Höfer
+
+----
+
+Book-title: Elbphilharmonie Hamburg Herzog & de Meuron Hamburg VIII 2016
+
+----
+
+Template: cards

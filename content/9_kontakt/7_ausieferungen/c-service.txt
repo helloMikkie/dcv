@@ -1,0 +1,73 @@
+Title: Auslieferungen
+
+----
+
+Category: Auslieferungen
+
+----
+
+Item:
+
+- 
+  name: Deutschland, Österreich, Luxemburg
+  text: |
+    LKG Leipziger Kommissions- und Großbuchhandlungesellschaft mbH
+    An der Südspitze 1-12
+    DE-04571 Rötha
+    
+    Flora Ihlau
+    Tel. +49 (0)34206 / 65-181
+    Fax +49 (0)34206 / 65- 1773
+    (email: flora.ihlau@lkg-service.de text: flora.ihlau@lkg-service.de)
+- 
+  name: Schweiz
+  text: |
+    AVA Verlagsauslieferung AG
+    Centralweg 16
+    CH-8910 Affoltern am Albis
+    
+    Tel. +41 (0)44 / 762 42 00
+    Fax +41 (0)44 / 762 42 10
+    (email: avainfo@ava.ch text: avainfo@ava.ch)
+- 
+  name: United Kingdom
+  text: |
+    Art Data
+    12 Bell Industrial Estate
+    50 Cunnington Street
+    GB-London W4 5HB
+    
+    Tel. +44 (0)208 / 747-1061
+    Fax +44 (0)208 / 747-2319
+    (email: orders@artdata.co.uk text: orders@artdata.co.uk)
+- 
+  name: USA und Kanada
+  text: |
+    Art Stock Books
+    Independent Publishers Group (IPG)
+    814 North Franklin Street
+    USA-Chicago, IL 60610
+    
+    Tel. +1 (312) / 337-0747
+    (link: www.ipgbook.com text: www.ipgbook.com)
+    (email: orders@ipgbook.com text: orders@ipgbook.com)
+- 
+  name: Australien
+  text: |
+    books at manic
+    16 A Linden St
+    AUS-Brunswick East, VIC 3057
+    
+    Tel. +61 (3)9830 / 53 37
+    (link: www.manicex.com.au text: www.manicex.com.au)
+    (email: manicex@manic.com.au text: manicex@manic.com.au)
+- 
+  name: Frankreich
+  text: |
+    Interart
+    1, Rue de l’Est
+    FR-75020 Paris
+    
+    Tel. +33 (0)1 / 43 49 36 60
+    (link: www.interart.fr text: www.interart.fr)
+    (email: contact@interart.fr text: contact@interart.fr)

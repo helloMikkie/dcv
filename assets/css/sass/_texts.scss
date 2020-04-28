@@ -1,0 +1,38 @@
+
+
+// + + + + About: Service + + + + + 
+
+.service {
+  margin-bottom: 0.5rem;
+}
+
+
+.service-category{
+  font-size: $fs-medium;
+  text-transform: uppercase;
+  line-height: $tight; 
+  margin-bottom: 1rem;
+  letter-spacing: $x-tracked;   
+}
+
+.service-text * + .service-category{
+  margin-top: 1rem; 
+}
+
+.service-text p {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $c-white;
+}
+.service-text :last-child{
+  border: none; 
+}
+
+@media (min-width: 48rem){
+  .service-category{
+    font-size: $fs-large; 
+  }
+  .service-text p{
+    font-size: $fs-medium; 
+    line-height: $normal; 
+  }
+}

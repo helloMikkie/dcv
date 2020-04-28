@@ -1,0 +1,17 @@
+Overwrite: 
+
+----
+
+Author: Franz Erhard Walther
+
+----
+
+Book-title: Manifestationen
+
+----
+
+Book-description: 
+
+----
+
+Template: cards

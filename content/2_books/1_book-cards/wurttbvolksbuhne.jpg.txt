@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: 
+
+----
+
+Book-title: 10 Jahre Württembergische Volksbühne
+
+----
+
+Template: cards

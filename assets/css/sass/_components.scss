@@ -1,0 +1,243 @@
+// + + + + Horizontal Devider Component
+
+.devider, .heading-devider{
+  padding: 2rem;
+  position: relative;
+  text-align: center;
+}
+
+.devider::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 1rem;
+  background: $black;
+  height: 8px;
+  width: calc(100% - 3rem);
+  transform: translateY(-50%);
+}
+
+.heading-devider::after{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  height: 8px;
+  width: calc(100% - 3rem);
+  transform: translateY(-50%);
+}
+
+.devider-black::after{
+  background: $black;
+}
+.devider-white::after{
+  background: $white;
+}
+
+@media (min-width: 60rem) {
+  .devider::after, .heading-devider::after {
+    left: 20%;
+    right: 20%;
+    width: 60%;
+  }
+}
+
+// Book Detail > Descripton > Price Tag
+
+.price-tag{
+  position: sticky; 
+  left: calc(100vw - 2rem); 
+  top: 5rem; 
+  bottom: 1rem; 
+  background: $black;
+  color: $white; 
+  z-index: 10;
+  padding: 0.5rem 1rem;  
+  width: 7rem;
+  margin: 1rem;  
+
+}
+.price-tag-link{
+  color: $white; 
+  text-decoration: none;
+}
+.price-tag-link::after{
+  content: '';
+  position: absolute; 
+  top: 0.5rem; 
+  right: .5rem; 
+  width: 24px; 
+  height: 24px;
+  padding: 0.5rem;   
+  background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0.930585 36.7429L3.87874 14H36.105L38.636 36.7791C38.7676 37.9639 37.8402 39 36.6482 39H2.91399C1.70734 39 0.775465 37.9395 0.930585 36.7429Z' stroke='%23fff' stroke-width='2'/%3E%3Cpath d='M11 22V4C11 2.34315 12.3431 1 14 1H26C27.6569 1 29 2.34315 29 4V22' stroke='%23fff' stroke-width='2'/%3E%3Crect width='40' height='40' fill='none'/%3E%3C/svg%3E%0A");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+// Video: c-video in: detail edition, detail books
+
+
+.video{
+  padding: 2rem;
+  position: relative; 
+}
+.video-edition{
+  background-color: $black; 
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 90%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+
+
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; 
+  bottom: 0; 
+  width: 100%;
+  height: 100%;
+  border: none; 
+}
+
+.video::before , .program::before{
+  content: "";
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: $black;
+  height: 8px;
+  width: calc(100% - 3rem);
+  transform: translateY(-50%);
+}
+
+.video-edition::before{
+  background: $white;
+}
+
+
+
+@media (min-width: 60rem) {
+  .video{
+    padding: 4rem;
+  }
+  .embed-container{
+    padding-bottom: 48%;
+  }
+  .video::before , .program::before{
+    left: 20%;
+    right: 20%;
+    width: 60%;
+  }
+}
+
+// * * * * Editionen: c-editions-list
+
+.editions-list{
+// background-color: $black;
+margin-top: 6rem; 
+
+}
+.editions-list-item {
+  margin-left: auto; 
+  margin-right: auto;
+  padding: 1em 0; 
+  max-width: 80%; 
+text-align: center;
+border-bottom: 8px solid $white; 
+}
+.editions-list-item:last-child{
+  border-bottom: none; 
+}
+
+.editions-list-item a{
+  color: $white; 
+  text-decoration: none;
+}
+
+// * * * * About/Verlag Program: Verlagsvorschau
+
+
+.program {
+  display: block; 
+  padding: 3rem; 
+  position: relative; 
+  margin-top: 3rem;
+  margin-left: auto; 
+  margin-right: auto; 
+  width: calc(100% - 3rem);
+  text-decoration: none;
+  text-align: center;
+}
+.program img{
+  display: block; 
+  max-width: 30rem;
+  margin: 3rem auto; 
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.15), 20px 40px 80px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in; 
+}
+.program h2{
+  color: $black;
+
+}
+.program img:hover{
+  transform: scale(1.02);
+}
+@media (min-width: 60rem){
+  .program{
+    width: 80%; 
+    max-width: 72rem; 
+  }
+}
+// News Marquee
+
+@keyframes moveLeft{
+  0%{
+    transform: translateX(0);
+  }
+  100%{
+    transform: translateX(-6000vw);
+  }
+}
+.marquee{
+
+  width: 100%; 
+  overflow: hidden; 
+}
+.marquee h2{
+  animation-name: moveLeft;
+  animation-duration: 350s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  white-space: nowrap;
+  padding-left: 1rem;  
+  color: $black; 
+}
+.marquee h2 a{
+  color:$black; 
+}
+.marquee h2:hover{
+  animation-name: none;
+}
+
+.marquee h2:nth-child(2){
+  animation-duration: 300s;
+  animation-delay: 6s;  
+  padding-left: -20rem;
+}
+
+.marquee h2:nth-child(3){
+  animation-delay: 4s; 
+  animation-duration: 400s;
+}

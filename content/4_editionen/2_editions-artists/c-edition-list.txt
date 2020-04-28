@@ -1,0 +1,16 @@
+Title: Editions Artists
+
+----
+
+Item:
+
+- 
+  heading: Candida Höfer
+- 
+  heading: John Bock
+- 
+  heading: Arina Dähnick
+- 
+  heading: Jakob Ganslmaier
+- 
+  heading: Gabriele Basch

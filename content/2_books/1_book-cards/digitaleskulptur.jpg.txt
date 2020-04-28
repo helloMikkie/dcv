@@ -1,0 +1,13 @@
+Overwrite: new
+
+----
+
+Author: Digitale Skulptur
+
+----
+
+Book-title: Follow the Unknown
+
+----
+
+Template: cards

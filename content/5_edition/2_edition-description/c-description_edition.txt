@@ -1,0 +1,45 @@
+Title: Edition Description
+
+----
+
+Contact-name: Jonathan Stockhorst
+
+----
+
+Contact-email: stockhorst@dcv.com
+
+----
+
+Artist: John Bock
+
+----
+
+Edition: 
+
+----
+
+Intro: 
+
+----
+
+Description: Tiefgründiges und Banales, Zufall und Planung, Hochkultur und Alltag verbinden sich im Werk von John Armleder zu einem einzigartigen Erlebnis. Der Schweizer (geb. 1948) ist einer der einflussreichsten Konzept-, Performance- und Objektkünstler der Gegenwart. Seine Arbeiten – oft humorvolle oder ironisch gebrochene Kommentare zur heutigen Wirklichkeit – schöpfen aus dem formalen Repertoire der Klassischen Moderne sowie aus Video und Design, deren Einflüsse er mit großer medialer Vielfalt verbindet. Der Band zeigt anhand von ortsspezifischen, groß angelegten Installationen und Wandarbeiten im Innen- und Außenraum detailliert die große Bandbreite von Armleders Schaffen. Durch die Kombination verschiedener Medien, Oberflächen und Materialien erschafft der Künstler Raumereignisse, die trotz ihrer Heterogenität eine große ästhetische Wirkung auf den Betrachter haben.
+
+----
+
+Meta:
+
+- 
+  key: Auflage
+  text: "30"
+- 
+  key: Technik
+  text: ' C-Print auf Hahnemühle Baryta FB 350'
+- 
+  key: Passepartout
+  text: 37 x 45 cm
+- 
+  key: Maße
+  text: 21 x 27 cm
+- 
+  key: Preis
+  text: €380,--

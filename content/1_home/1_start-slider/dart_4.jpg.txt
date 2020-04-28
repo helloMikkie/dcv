@@ -1,0 +1,17 @@
+Overwrite: 
+
+----
+
+Author: Martin Noel
+
+----
+
+Book-title: paintprintpaint
+
+----
+
+Book-description: 
+
+----
+
+Template: cards

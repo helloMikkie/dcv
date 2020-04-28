@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Eva Jospin
+
+----
+
+Book-title: Wald(t)räume
+
+----
+
+Template: cards

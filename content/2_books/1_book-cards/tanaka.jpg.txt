@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Nobuyuki Tanaka
+
+----
+
+Book-title: 
+
+----
+
+Template: cards

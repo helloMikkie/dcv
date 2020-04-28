@@ -1,0 +1,13 @@
+Title: News
+
+----
+
+Images:
+
+- news_4.jpg
+- news_7.jpg
+- news_1.jpg
+- news_3.jpg
+- news_5.jpg
+- news_6.jpg
+- news_8.jpg

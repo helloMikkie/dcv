@@ -1,0 +1,12 @@
+title: Text
+icon: text
+status:
+  draft: Draft
+  unlisted: false
+  listed: Published
+
+fields:
+  text:
+    type: textarea
+    size: large
+    required: true

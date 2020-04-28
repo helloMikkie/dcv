@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Kurt Weidemann
+
+----
+
+Book-title: Wo der Buchstabe das Wort führt
+
+----
+
+Template: cards

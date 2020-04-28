@@ -1,0 +1,14 @@
+title: Caroussel-Edition
+icon: image
+status:
+  draft: Draft
+  unlisted: false
+  listed: Published
+
+fields:
+  images:
+    type: files
+    template: cards
+    layout: cards
+    size: tiny
+    info: "{{ file.size }}"

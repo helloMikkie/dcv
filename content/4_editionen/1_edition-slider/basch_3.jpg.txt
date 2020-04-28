@@ -1,0 +1,13 @@
+Overwrite: 
+
+----
+
+Author: Gabriele Basch
+
+----
+
+Book-title: edith VI
+
+----
+
+Template: cards

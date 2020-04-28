@@ -1,0 +1,21 @@
+Einstellung: image
+
+----
+
+Datum: 
+
+----
+
+Headline: Uta Grosenick: Neue Verlegerin der Edition Cantz
+
+----
+
+Text: Uta Grosenick baut den neuen Verlagssitz der Edition Cantz in Berlin auf. Inmitten von Künstlerateliers, Galerien und Museen wird sie die Edition Cantz als feste Größe unter den nationalen und internationalen Kunstbuchverlagen etablieren.  Seit Jahren in der Kunstszene zu Hause, bringt Uta Grosenick ihre Erfahrung im Büchermachen und in der programmatischen Ausrichtung von Kunstbuchverlagen in die Edition Cantz ein. Sie war als Ausstellungsorganisatorin und Kuratorin an renommierten Kunstmuseen in Deutschland tätig, bevor sie sich ganz der Konzeption und Produktion von Büchern und Katalogen verschrieb. Zwischen 1999 und 2006 gab sie zahlreiche Überblicksbände und Monografien zur zeitgenössischen Kunst im Taschen Verlag heraus und wurde 2006 Programmleiterin Kunst bei DuMont. 2010 war sie Mitbegründerin des Distanz Verlag, und dort bis Sommer 2019 als Verlegerin tätig.  Seit September ist sie Verlegerin und Gesellschafterin der Edition Cantz in Berlin.
+
+----
+
+Featured: true
+
+----
+
+Template: news_cards

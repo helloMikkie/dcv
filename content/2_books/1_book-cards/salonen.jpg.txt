@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Elsa Salonen
+
+----
+
+Book-title: Stories Told by Stones
+
+----
+
+Template: cards

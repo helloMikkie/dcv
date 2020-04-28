@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Jakob Ganslmaier
+
+----
+
+Book-title: Lovely Planet Polen
+
+----
+
+Template: cards

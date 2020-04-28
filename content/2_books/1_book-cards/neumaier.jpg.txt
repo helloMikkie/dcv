@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Gerhard Neumaier
+
+----
+
+Book-title: Die Lust an der Macht des Malens zwischen Mytghos und Trivialität
+
+----
+
+Template: cards

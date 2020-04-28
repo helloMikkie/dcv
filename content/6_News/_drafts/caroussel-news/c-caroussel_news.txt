@@ -1,0 +1,38 @@
+Title: Caroussel News
+
+----
+
+Item:
+
+- 
+  heading: >
+    Verdrehte Leiber, Nervenbahnen, innere
+    Landkarten, Traumfänger
+  text: |
+    …die magischen biomorphen Arbeiten der brasilianischen Künstlerin Sonia Gomes
+    
+    Vom 12. Oktober 2019 bis zum 8. März 2020 präsentiert das Museum Frieder Burda Baden-Baden als erstes europäisches Museum eine Einzelausstellung  der brasilianischen Künstlerin Sonia Gomes (*1948) unter dem Titel
+    
+    I rise – I’m a Black Ocean, Leaping and Wide
+    
+    Ein weiterer Teil der Ausstellung ist bereits seit dem 7. September im Salon Berlin des Museum Frieder Burda zu sehen, und wird dort noch bis zum 22. Februar 2020 gezeigt.
+- 
+  heading: 'Uta Grosenick: Neue Verlegerin der Edition Cantz'
+  text: |
+    Uta Grosenick baut den neuen Verlagssitz der Edition Cantz in Berlin auf. Inmitten von Künstlerateliers, Galerien und Museen wird sie die Edition Cantz als feste Größe unter den nationalen und internationalen Kunstbuchverlagen etablieren.
+    
+    Seit Jahren in der Kunstszene zu Hause, bringt Uta Grosenick ihre Erfahrung im Büchermachen und in der programmatischen Ausrichtung von Kunstbuchverlagen in die Edition Cantz ein. Sie war als Ausstellungsorganisatorin und Kuratorin an renommierten Kunstmuseen in Deutschland tätig, bevor sie sich ganz der Konzeption und Produktion von Büchern und Katalogen verschrieb. Zwischen 1999 und 2006 gab sie zahlreiche Überblicksbände und Monografien zur zeitgenössischen Kunst im Taschen Verlag heraus und wurde 2006 Programmleiterin Kunst bei DuMont. 2010 war sie Mitbegründerin des Distanz Verlag, und dort bis Sommer 2019 als Verlegerin tätig.
+- 
+  heading: Viele neue Bücher
+  text: |
+    Lassen Sie sich überraschen!
+    
+    Besuchen Sie uns auf der Buchmesse in Frankfurt, blättern Sie in unseren Herbsttiteln und lernen Sie unsere neue Verlegerin
+    Uta Grosenick persönlich kennen.
+    
+    Gerne begrüßen wir Sie auch beim Get Together auf unserem Stand am Donnerstag, 17. Oktober, ab 17 Uhr und freuen uns auf anregende Gespräche bei einem Glas Wein.
+    
+    Hier finden Sie uns:
+    Halle 4.1, Stand J 27
+    
+    Wir freuen uns auf Ihren Besuch!

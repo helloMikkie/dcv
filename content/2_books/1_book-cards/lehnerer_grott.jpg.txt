@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Lehner
+
+----
+
+Book-title: Gott
+
+----
+
+Template: cards

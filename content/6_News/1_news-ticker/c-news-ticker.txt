@@ -1,0 +1,14 @@
+Title: News-Ticker
+
+----
+
+Item:
+
+- 
+  heading: >
+    Uta Grosenick ist neue Verlegerin der
+    Dr. Cantz’schen Verlagsgesellschaft
+- 
+  heading: 'Ab jetzt: edition cantz ist die Dr.Cantz’sche Verlagesellschafft'
+- 
+  heading: 'Candida Höfer: Gesamtverzeichnis aller Editionen in unserem Verlagsprogramm'

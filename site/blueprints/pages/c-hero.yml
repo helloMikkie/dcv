@@ -1,0 +1,12 @@
+title: Hero
+icon: image
+status:
+  draft: Draft
+  unlisted: false
+  listed: Published
+
+fields:
+  hero_image:
+    type: files
+    layout: cards
+    size: tiny

@@ -1,0 +1,7 @@
+Title: Hero
+
+----
+
+Hero-image:
+
+- gruppenfoto.png

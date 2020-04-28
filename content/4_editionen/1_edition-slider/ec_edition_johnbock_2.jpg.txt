@@ -1,0 +1,13 @@
+Overwrite: 
+
+----
+
+Author: John Bock
+
+----
+
+Book-title: Ohne Titel (Ektoplasma Qualm-Gebirge…), 2019
+
+----
+
+Template: cards

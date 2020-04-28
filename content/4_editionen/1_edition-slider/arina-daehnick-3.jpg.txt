@@ -1,0 +1,13 @@
+Overwrite: 
+
+----
+
+Author: Arina Dähnick
+
+----
+
+Book-title: Tugendhat House 8, Brno 2017
+
+----
+
+Template: cards

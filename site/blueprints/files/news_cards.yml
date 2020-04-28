@@ -1,0 +1,17 @@
+title: News Card
+
+fields:
+  einstellung:
+    type: select
+    options:
+      - no-image
+      - image
+  datum:
+    type: date
+  headline:
+    type: text
+  text:
+    type: textarea
+  featured:
+    type: toggle
+    label: mit Subpage

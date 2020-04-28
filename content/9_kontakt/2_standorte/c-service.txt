@@ -1,0 +1,34 @@
+Title: Standorte
+
+----
+
+Category: Standorte
+
+----
+
+Item:
+
+- 
+  name: Berlin
+  text: |
+    Prinz-Eugen-Str. 17A
+    13347 Berlin
+    
+    T +49 (0)30 4405-100
+    (email: info@edition-cantz.de text: info@edition-cantz.de)
+- 
+  name: Esslingen
+  text: |
+    Dieselstraße 50
+    73734 Esslingen
+    
+    Tel. +49 (0)711 / 44 05-100
+    (email: info@edition-cantz.de text: info@edition-cantz.de)
+- 
+  name: Köln
+  text: |
+    Markusplatz 29
+    50968 Köln
+    
+    Mobil +49 (0)177 / 606 13 42
+    (email: info@edition-cantz.de text: info@edition-cantz.de)

@@ -1,0 +1,17 @@
+Einstellung: no-image
+
+----
+
+Datum: 2020-05-21
+
+----
+
+Headline: The MIES Project in Chicago
+
+----
+
+Text: Seit dem 16. September zeigt das Goethe-Institut Chicago die Ausstellung The MIES Project der Fotokünstlerin Arina Dähnick. Mit der legendären Leica M Messsucherkamera, klassischer „analoger“ Technik und fotografischer Intuition erschloss die Berlinerin einen ganz neuen visuellen Zugang zur Architektur von Mies van der Rohe. Blickwinkel und Entfernung, die Stimmung des Lichts zu unterschiedlichen Tages- und Jahreszeiten, manuelle Einstellung von Blende, Belichtung und Fokus und der völlige Verzicht auf bildmanipulierende Nachbearbeitung machen die Aufnahmen zu einer höchst persönlichen und für den Betrachter faszinierend neuen MIES-Erfahrung zugleich.
+
+----
+
+Template: news_cards

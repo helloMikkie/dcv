@@ -1,0 +1,17 @@
+title: Caroussel News
+icon: text
+
+fields:
+  item:
+    label: News
+    type: structure
+    fields:
+      heading: 
+        label: Headline
+        type: text
+      text:
+        label: Text
+        type: textarea
+      
+ 
+      

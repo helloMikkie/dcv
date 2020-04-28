@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: 
+
+----
+
+Book-title: Flatland/
+
+----
+
+Template: cards

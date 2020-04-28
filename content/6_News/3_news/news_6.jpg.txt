@@ -1,0 +1,17 @@
+Einstellung: image
+
+----
+
+Headline: Über pragmatische Poesien und prägnante Bauten
+
+----
+
+Text:
+
+Das Frankfurter Architekturbüro schneider + schumacher steht für prägnante Bauten, die zu Wahrzeichen werden. Den Erweiterungsbau des Städel-Museums brachten sie unter die Erde und schufen einen einzigartig inspirierenden und lichtdurchfluteten „Kunstkeller“. Ihre Autobahnkirche im Siegerland wird zu den 1.000 besten zeitgenössischen Bauten der Welt gezählt. Das sind nur zwei der bekanntesten Beispiele aus der vielfältigen Arbeit der Gestalter, Planer und Projektmanager in den letzten 30 Jahren.
+
+Auf knapp 400 Seiten zeigt der zum Jubiläum erschienene Band schneider + schumacher: 30 eine Auswahl dieser „pragmatischen Poesien“, wie die Bürogründer ihre Architektur selbst nennen. Der interessierte Betrachter sieht und erfährt, was die Architekten beeinflusst und inspiriert, wie sie denken und entwerfen, was sie geleistet und noch vor sich haben. Kundig kommentiert von namhaften Autoren, wird diese Werkschau zur anregenden Auseinandersetzung mit der Haltung, dem Selbstverständnis und der gesellschaftlichen Bedeutung zeitgemäßer Architektur.
+
+----
+
+Template: news_cards

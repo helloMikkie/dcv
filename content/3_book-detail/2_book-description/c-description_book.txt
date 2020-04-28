@@ -1,0 +1,63 @@
+Title: Book Description
+
+----
+
+Author: John M Armleder
+
+----
+
+Book: CA.CA.
+
+----
+
+Text:
+
+**Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. **
+
+Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+
+----
+
+Meta:
+
+- 
+  key: Sprachen
+  text: Deutsch, Englisch
+- 
+  key: Seitenanzahl
+  text: "120"
+- 
+  key: Buchautoren
+  text: Ingrid Pfeiffer, Rebecca Herlemann
+- 
+  key: Gestaltung
+  text: stapelbergfritz
+- 
+  key: Abbildungen
+  text: 23 farbig, 7 sw
+- 
+  key: Umschlag
+  text: Broschur
+- 
+  key: ISBN
+  text: 987-2-234417-57-0
+
+----
+
+Price: 19,00
+
+----
+
+Intro: 
+
+----
+
+Description:
+
+**Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.**
+
+Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis.
+
+Maecenas sed diam eget risus varius blandit sit amet non magna. Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.

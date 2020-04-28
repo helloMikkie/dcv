@@ -1,0 +1,15 @@
+Title: About-2
+
+----
+
+Text:
+
+## Haedline ist Headline
+
+Die Edition Cantz ist ein renommierter Kunstbuchverlag mit internationalem Ruf und einer über 70-Jährigen Tradition. Das aktuelle Verlagsprogramm bildet das komplette Spektrum von der bildenden Kunst über Fotografie bis hin zu Video- und Klangperformances ab. Ein Schwerpunkt liegt dabei auf zeitgenössischer Kunst.
+
+----
+
+Images:
+
+- about_02.jpg

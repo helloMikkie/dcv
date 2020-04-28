@@ -1,0 +1,28 @@
+title: Description Book
+
+
+fields:
+  price:
+    label: Price-Tag
+    type: text
+  author:
+    label: Autor/en
+    type: text
+    width: 1/4
+  book:
+    label: Titel
+    type: text
+    width: 1/2
+  text:
+    label: Detail Beschreibung
+    width: 1/2
+    type: textarea
+  meta:
+    label: Meta
+    type: structure
+    width: 1/2
+    fields:
+      key:
+        type: text
+      text:
+        type: text

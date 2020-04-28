@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Pokorny
+
+----
+
+Book-title: 
+
+----
+
+Template: cards

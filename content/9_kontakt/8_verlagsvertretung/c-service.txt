@@ -1,0 +1,84 @@
+Title: Verlagsvertretung
+
+----
+
+Category: Verlagsvertretung
+
+----
+
+Item:
+
+- 
+  name: 'Nord- und Westdeutschland'
+  text: |
+    buchArt Verlagsvertretungen
+    Jastrow + Seifert + Reuter + Jastrow
+    Office: Cotheniusstraße 4
+    10407 Berlin
+    
+    Tel. +49 (0)30 / 732 18-0
+    Fax +49 (0)30 / 732 18-1
+    (email: service@buchart.org text: service@buchart.org)
+- 
+  name: Westdeutschland und Luxemburg
+  text: |
+    Michael Klein
+    c /o Vertreterbüro Würzburg
+    Huebergasse 1
+    97070 Würzburg
+    
+    Tel. +49 (0)931 / 174 05
+    Fax +49 (0)931 / 174 10
+    (email: klein@vertreterbuero-wuerzburg.de text: klein@vertreterbuero-wuerzburg.de)
+- 
+  name: Süddeutschland und Österreich
+  text: |
+    Stefan Schempp
+    Verlagsvertretungen
+    Wilhelmstraße 32
+    80801 München
+    
+    Tel. +49 (0)89 / 23 07 77 37
+    Fax +49 (0)89 / 23 07 77 38
+    Mobil +49 (0) 176 / 95 65 77 69
+    (email: stefan.schempp@mnet-mail.de text: stefan.schempp@mnet-mail.de)
+- 
+  name: Schweiz
+  text: |
+    Sebastian Graf
+    Verlagsvertretungen GmbH
+    Uetlibergstrasse 84
+    CH-8045 Zürich
+    
+    Tel. +41 (0) 44 / 463 42 28
+    Fax +41 (0) 44 / 450 11 55
+    (email: sgraf@swissonline.ch text: sgraf@swissonline.ch)
+- 
+  name: Skandinavien
+  text: |
+    Elisabeth Harder-Kreimann
+    Joachim-Mähl-Strasse 28
+    22459 Hamburg
+    
+    Tel. +49 (0)40 / 55 54 04 46
+    (email: elisabeth@harder-kreimann.de text: elisabeth@harder-kreimann.de)
+- 
+  name: 'China, Südkorea, Taiwan, Japan, Südost- und Nordostasien, Russland'
+  text: |
+    PIM Publishers International Marketing
+    Chris Ashdown
+    Timberham
+    1, Monkton Close
+    GB-Ferndown, Dorset BH22 LLI
+    
+    Tel. +44 (0)1202 / 89 62 10
+    (email: chris@pim-uk.com text: chris@pim-uk.com)
+- 
+  name: 'Süd- und Osteuropa'
+  text: |
+    Bookport Associates
+    Via Luigi Salma, 7
+    I-20094 Corsico (MI)
+    
+    Tel +39 02 / 45 10 36 01
+    (email: bookport@bookport.it text: bookport@bookport.it)

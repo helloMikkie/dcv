@@ -1,0 +1,9 @@
+Title: Slider-Edition
+
+----
+
+Images:
+
+- ec_edition_johnbock_2.jpg
+- ec_edition_johnbock_1.jpg
+- ec_edition_johnbock_3.jpg

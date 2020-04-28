@@ -1,0 +1,13 @@
+Overwrite: standard
+
+----
+
+Author: Künstlerbund Baden-Württemberg
+
+----
+
+Book-title: Idee Entwurf Konzept
+
+----
+
+Template: cards

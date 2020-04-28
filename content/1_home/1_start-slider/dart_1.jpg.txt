@@ -1,0 +1,17 @@
+Overwrite: 
+
+----
+
+Author: Joanna Pousette-Dart
+
+----
+
+Book-title: 
+
+----
+
+Book-description: 
+
+----
+
+Template: cards
